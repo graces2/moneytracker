@@ -1,0 +1,17 @@
+{
+    "Entries": [
+        {
+            "Category": "food",
+            "Subcategory": "lunch",
+            "Amount": 1,
+            "Date": "2021/01/01"
+        },
+        {
+            "Category": "drink",
+            "Subcategory": "dinner",
+            "Amount": 2,
+            "Date": "2021/02/02"
+        }
+    ],
+    "Name": "testAccountObject"
+}

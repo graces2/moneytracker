@@ -1,0 +1,47 @@
+{
+    "Entries": [
+        {
+            "Category": "food",
+            "Subcategory": "dinner",
+            "Amount": 2,
+            "Date": "2021/02/02"
+        },
+        {
+            "Category": "drink",
+            "Subcategory": "lunch",
+            "Amount": 3,
+            "Date": "2021/03/03"
+        },
+        {
+            "Category": "drink",
+            "Subcategory": "dinner",
+            "Amount": 4,
+            "Date": "2021/04/04"
+        },
+        {
+            "Category": "food",
+            "Subcategory": "dinner",
+            "Amount": 5,
+            "Date": "2021/05/05"
+        },
+        {
+            "Category": "cake",
+            "Subcategory": "dinner",
+            "Amount": 6,
+            "Date": "2021/06/06"
+        },
+        {
+            "Category": "cake",
+            "Subcategory": "lunch",
+            "Amount": 7,
+            "Date": "2021/11/17"
+        },
+        {
+            "Category": "food",
+            "Subcategory": "lunch",
+            "Amount": 11,
+            "Date": "2021/01/01"
+        }
+    ],
+    "Name": "My Expense Account"
+}
